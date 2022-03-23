@@ -8,7 +8,7 @@ const Hero = () => {
         <img className='heroImageBottom' src='https://www.wallpapertip.com/wmimgs/43-436636_bora-bora-beach-hd-wallpaper-4k-bora-bora.jpg' alt='Img'></img>
         <div className='blackbox'></div>
         <div className='heroTextContainer'>
-            <h1 className='heroTitle'>TE ESPERA UNA GRAN AVENTURA</h1>
+            <h1 className='heroTitle'>A GREAT ADVENTURE IS WAITING FOR YOU</h1>
             <h1 className='wwb'> World Wide Booking</h1>
         </div>
         
